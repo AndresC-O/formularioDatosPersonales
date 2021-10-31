@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario de datos</string>
+    <string name="et_nombres">Ingrese sus nombres</string>
+    <string name="et_apellidos">Ingrese sus apellidos</string>
+    <string name="rb_masculino">Masculino</string>
+    <string name="rb_femenino">Femenino</string>
+    <string name="et_telefono">Ingrese su teléfono</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_mostrar">Mostrar</string>
+</resources>
